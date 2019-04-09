@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u__ipinfo_token</element>
+        <element>u_ipinfo_token</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -35,7 +35,7 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label> IPInfo Token</label>
+        <label>IPInfo Token</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
         <model display_value="Call IPInfo REST API.">11a3abc7db9f23007f41d6aa48961981</model>
@@ -59,16 +59,16 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_output</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-02-04 04:27:28</sys_created_on>
-        <sys_id>b2c83b9fdbd763007f41d6aa4896191a</sys_id>
+        <sys_created_on>2019-02-05 11:20:02</sys_created_on>
+        <sys_id>d0d0667bdbd323007f41d6aa48961925</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>var__m_sys_hub_step_ext_output_11a3abc7db9f23007f41d6aa48961981</sys_name>
         <sys_package display_value="IPInfo Spoke" source="x_301956_ipinfo_sp">2382af87db5f23007f41d6aa48961999</sys_package>
         <sys_policy/>
         <sys_scope display_value="IPInfo Spoke">2382af87db5f23007f41d6aa48961999</sys_scope>
-        <sys_update_name>sys_hub_step_ext_output_b2c83b9fdbd763007f41d6aa4896191a</sys_update_name>
+        <sys_update_name>sys_hub_step_ext_output_d0d0667bdbd323007f41d6aa48961925</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-04 04:27:28</sys_updated_on>
+        <sys_updated_on>2019-02-05 11:20:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
